@@ -41,3 +41,21 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+.idea/workspace.xml
+
+.idea/vcs.xml
+
+.idea/scopes/scope_settings.xml
+
+.idea/modules.xml
+
+.idea/MLInAction.iml
+
+.idea/misc.xml
+
+.idea/encodings.xml
+
+.idea/.name
+
+*.pyc
